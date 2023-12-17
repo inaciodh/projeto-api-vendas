@@ -1,0 +1,13 @@
+{
+  "name": "projeto-api-vendas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/inaciodh/projeto-api-vendas.git",
+  "author": "inaciodh <diegohenriqueptc@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.10.4",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.3.3"
+  }
+}
